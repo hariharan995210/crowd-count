@@ -1,6 +1,5 @@
 
 
-readme_content = """
 # 👥 Real-Time Human Detection and Crowd Counting with YOLOv8
 
 This project performs real-time **human detection** and **crowd density analysis** from a video stream using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics). It is designed for applications like event safety, crowd management, and people flow analysis.
