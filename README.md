@@ -25,6 +25,13 @@ This project performs real-time **human detection** and **crowd density analysis
 ## 📂 File Structure
 
 
+## 📦 Requirements
+
+Install dependencies using pip:
+
+```bash
+pip install ultralytics opencv-python numpy
+
 ```plaintext
 .
 ├── people5.mp4              # Input video file (replace or use webcam)
@@ -33,12 +40,4 @@ This project performs real-time **human detection** and **crowd density analysis
 └── requirements.txt         # Dependency list
 
 
----
-
-## 📦 Requirements
-
-Install dependencies using pip:
-
-```bash
-pip install ultralytics opencv-python numpy
 
