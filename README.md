@@ -24,11 +24,13 @@ This project performs real-time **human detection** and **crowd density analysis
 
 ## 📂 File Structure
 
-├── people5.mp4 # Input video file (replace or use webcam)
-├── detect_and_count.py # Python script for detection & counting
-├── README.md # Project documentation
-└── requirements.txt # Dependency list
 
+```plaintext
+.
+├── people5.mp4              # Input video file (replace or use webcam)
+├── detect_and_count.py      # Python script for detection & counting
+├── README.md                # Project documentation
+└── requirements.txt         # Dependency list
 
 
 ---
