@@ -1,4 +1,4 @@
-# Create a README.md file for the YOLOv8 crowd detection project
+
 
 readme_content = """
 # 👥 Real-Time Human Detection and Crowd Counting with YOLOv8
@@ -24,4 +24,20 @@ This project performs real-time **human detection** and **crowd density analysis
 ---
 
 ## 📂 File Structure
+
+├── people5.mp4 # Input video file (replace or use webcam)
+├── detect_and_count.py # Python script for detection & counting
+├── README.md # Project documentation
+└── requirements.txt # Dependency list
+
+
+
+---
+
+## 📦 Requirements
+
+Install dependencies using pip:
+
+```bash
+pip install ultralytics opencv-python numpy
 
